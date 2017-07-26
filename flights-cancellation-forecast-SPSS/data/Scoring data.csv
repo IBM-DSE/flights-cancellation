@@ -1,0 +1,5 @@
+FL_DATE,Hour,UNIQUE_CARRIER,ORIGIN,O_SurfaceTemperatureFahrenheit,O_CloudCoveragePercent,O_WindSpeedMph,O_PrecipitationPreviousHourInches,O_SnowfallInches,O_SurfaceWindGustsMph,O_SurfaceWaterRunOffMillimeters,DEST,D_SurfaceTemperatureFahrenheit,D_CloudCoveragePercent,D_WindSpeedMph,D_PrecipitationPreviousHourInches,D_SnowfallInches,D_SurfaceWindGustsMph,D_SurfaceWaterRunOffMillimeters,DAY_OF_WEEK,DISTANCE
+20160101,5,UA,BOS,31.6,85,12.3,0,0,24.7,0.072,SFO,36.3,0,7.8,0,0,26.1,0,5,2704
+20160105,17,AA,JFK,24.8,0,7.1,0,0,13.9,0,SFO,50.4,9,10.3,0.01,0,19,0,2,2586
+20160620,17,AA,JFK,75,27,11.7,0,0,18.4,0,ORD,87.4,0,9.5,0,0,59.3,0.001,1,740
+20160622,11,AA,ORD,66.6,100,17.5,0.01,0,21.1,0.001,EWR,79.9,0,21.6,0,0,26.7,0.001,3,719
